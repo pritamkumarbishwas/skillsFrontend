@@ -38,5 +38,6 @@ To set up this project locally, follow these steps:
 ```bash
 git clone https://github.com/pritamkumarbishwas/skillsFrontend.git
 cd skillsFrontend
-
+   npm i
+   npm start
 
